@@ -2,7 +2,7 @@
 
 This project is a front-end implementation for an eCommerce web application using the Bootstrap framework. It provides a clean and responsive user interface for browsing products, adding them to the cart, and completing the checkout process.
 
-Features
+Features <BR>
 <i class="fa fa-star"></i> Responsive design for various screen sizes (desktop, tablet, mobile).
 <i class="fa fa-star"></i> Browse products with a user-friendly interface.
 <i class="fa fa-star"></i> Add products to the cart for later purchase.
